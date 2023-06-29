@@ -1,0 +1,2 @@
+/usr/bin/ar qc libviewer.a CMakeFiles/viewer.dir/src/Ray.cpp.o CMakeFiles/viewer.dir/src/Sphere.cpp.o CMakeFiles/viewer.dir/src/Plane.cpp.o CMakeFiles/viewer.dir/src/Box.cpp.o CMakeFiles/viewer.dir/src/Pointsource.cpp.o CMakeFiles/viewer.dir/src/Scene.cpp.o
+/usr/bin/ranlib libviewer.a

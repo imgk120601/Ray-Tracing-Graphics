@@ -1,0 +1,4 @@
+/home/cs5190430/col781/A3/build/CMakeFiles/viewer.dir
+/home/cs5190430/col781/A3/build/CMakeFiles/main.dir
+/home/cs5190430/col781/A3/build/CMakeFiles/edit_cache.dir
+/home/cs5190430/col781/A3/build/CMakeFiles/rebuild_cache.dir
